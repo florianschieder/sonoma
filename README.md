@@ -1,2 +1,2 @@
 # sonoma
-JSONPath for Python based on [rsonpath-lib](https://crates.io/crates/rsonpath-lib).
+JSONPath for Python based on [jsoncons](https://github.com/danielaparker/jsoncons).
